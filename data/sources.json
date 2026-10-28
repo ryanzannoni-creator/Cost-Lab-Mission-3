@@ -1,0 +1,37 @@
+[
+  {
+    "id": "stripe",
+    "title": "Stripe US standard online domestic cards",
+    "url": "https://stripe.com/pricing",
+    "checked": "2026-10-27",
+    "finding": "2.9% plus $0.30 per successful domestic card transaction. Extra international, currency conversion and dispute fees excluded."
+  },
+  {
+    "id": "cloud",
+    "title": "Supabase Pro starting plan",
+    "url": "https://supabase.com/pricing",
+    "checked": "2026-10-27",
+    "finding": "From $25 per month; usage and compute limits apply. A possible venture-app service, not required by this laboratory."
+  },
+  {
+    "id": "shop",
+    "title": "Shopify Basic annual-billing reference",
+    "url": "https://www.shopify.com/pricing",
+    "checked": "2026-10-27",
+    "finding": "$29 per month billed yearly. Optional alternative storefront, disabled by default; payment architecture must be re-evaluated if adopted."
+  },
+  {
+    "id": "sensor",
+    "title": "Adafruit SGP40 prototype board",
+    "url": "https://www.adafruit.com/product/4829",
+    "checked": "2026-10-27",
+    "finding": "$14.95 for a 1\u20139 quantity breakout board; intended for indoor air quality. Not a production BOM quote or validated food-spoilage sensor."
+  },
+  {
+    "id": "bls",
+    "title": "BLS software developer compensation context",
+    "url": "https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm",
+    "checked": "2026-10-27",
+    "finding": "Page displays $134,040 annual / $64.44 hourly wage context. Employee wages are not contractor quotes; hours and contractor rate in this model are assumptions."
+  }
+]
